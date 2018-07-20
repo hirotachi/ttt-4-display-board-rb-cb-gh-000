@@ -6,4 +6,4 @@ def tic
   puts "-" * 11
   puts "#{board[6]}|#{board[7]}| #{board[8]}"
 end
-  
+tic
